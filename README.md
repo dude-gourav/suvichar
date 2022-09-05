@@ -1,4 +1,4 @@
-# fireblogs
+# Suvichar
 
 ## Project setup
 ```
